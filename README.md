@@ -3,7 +3,7 @@
 Equipe: 16
 
 Nome dos integrantes:
-Onécio Araujo Ribeiro \**
+Onécio Araujo Ribeiro \
 Janailson
 
 Projeto: Implementação e Análise do Algoritmo de K-means com o Dataset Human Activity Recognition
