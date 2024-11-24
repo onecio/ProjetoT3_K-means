@@ -4,7 +4,7 @@ Equipe: 16
 
 Nome dos integrantes:
 Onécio Araujo Ribeiro \
-Janailson
+Janailton Ferreira da Costa
 
 Projeto: Implementação e Análise do Algoritmo de K-means com o Dataset Human Activity Recognition
 Passo a Passo para Implementar o Projeto no Google Colab
