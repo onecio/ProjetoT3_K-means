@@ -2,7 +2,7 @@
 
 Equipe: 16
 
-Nome dos integrantes:
+Nome dos integrantes: \
 Onécio Araujo Ribeiro \
 Janailton Ferreira da Costa
 
